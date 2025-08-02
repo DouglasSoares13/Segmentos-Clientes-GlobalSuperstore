@@ -32,5 +32,5 @@ Compreender qual segmento gera maior retorno financeiro permite:
 - Instalar as bibliotecas:
 
 ```bash
-pip install pandas matplotlib seaborn numpy openpyxl
+pip install pandas matplotlib seaborn numpy
 
