@@ -1,10 +1,10 @@
-# 📊 Análise de Segmentos de Clientes - Global Superstore
+# Análise de Segmentos de Clientes - Global Superstore
 
 Este projeto realiza uma análise exploratória dos **segmentos de clientes** da base de dados **Global Superstore**, com o objetivo de identificar **qual segmento traz mais lucro para a empresa** e auxiliar na definição de estratégias comerciais mais eficientes.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 - Analisar os segmentos de clientes: **Consumidor, Corporativo e Home Office**.
 - Identificar qual segmento gera mais **lucro total** para a empresa.
@@ -12,7 +12,7 @@ Este projeto realiza uma análise exploratória dos **segmentos de clientes** da
 
 ---
 
-## 🧠 Valor para o Negócio
+## Valor para o Negócio
 
 Compreender qual segmento gera maior retorno financeiro permite:
 
@@ -23,9 +23,9 @@ Compreender qual segmento gera maior retorno financeiro permite:
 
 ---
 
-## 🧰 Como Rodar o Projeto
+## Como Rodar o Projeto
 
-### ✔️ Pré-requisitos
+###  Pré-requisitos
 
 - **Python** 3.10 ou superior
 - IDE como **Jupyter Notebook**, **Google Colab** ou **VS Code**
