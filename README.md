@@ -104,7 +104,7 @@ Foram elaboradas e respondidas perguntas estratégicas como:
 ## Sobre o Autor
 
 **Douglas Soares**  
-Analista de Dados em formação | Excel • Power BI • Python • SQL  
+Excel • Power BI • Python • SQL  
 [Portfólio no GitHub](https://github.com/DouglasSoares13)
 
 ---
