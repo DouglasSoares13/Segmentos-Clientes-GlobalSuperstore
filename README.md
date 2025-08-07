@@ -1,16 +1,16 @@
-# 📊 Análise de Segmentos de Clientes - Global Superstore
+# Análise de Segmentos de Clientes - Global Superstore
 
 Este projeto realiza uma análise exploratória detalhada dos segmentos de clientes da base de dados Global Superstore, com o objetivo de identificar **quais segmentos são mais lucrativos para a empresa** e como eles se comportam em diferentes regiões e categorias de produto.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Investigar o desempenho dos diferentes segmentos de clientes (Consumer, Corporate, Home Office) com base em indicadores como lucro, volume de vendas, ticket médio e localização geográfica, a fim de **propor insights que ajudem a direcionar estratégias de marketing e vendas**.
 
 ---
 
-## 🧩 Base de Dados
+## Base de Dados
 
 - **Nome:** Global Superstore
 - **Origem:** Kaggle ([Global Superstore Dataset](https://www.kaggle.com/datasets))
@@ -23,7 +23,7 @@ Investigar o desempenho dos diferentes segmentos de clientes (Consumer, Corporat
 
 ---
 
-## 🧠 Metodologia
+## Metodologia
 
 Segui a metodologia **CRISP-DM (Cross-Industry Standard Process for Data Mining)**:
 
@@ -46,7 +46,7 @@ Segui a metodologia **CRISP-DM (Cross-Industry Standard Process for Data Mining)
 
 ---
 
-## ❓ Perguntas de Negócio
+## Perguntas de Negócio
 
 Foram elaboradas e respondidas perguntas estratégicas como:
 
@@ -73,7 +73,7 @@ Foram elaboradas e respondidas perguntas estratégicas como:
 
 ---
 
-## 📈 Principais Gráficos
+## Principais Gráficos
 
 - Barras horizontais: Número de pedidos por segmento
 - Pizza: Participação do lucro por segmento
@@ -83,16 +83,16 @@ Foram elaboradas e respondidas perguntas estratégicas como:
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **Jupyter Notebook**
 - **Google Colab**
-- **GitHub** para versionamento e portfólio
+- **GitHub** para portfólio
 
 ---
 
-## 💡 Insights Gerados
+## Insights Gerados
 
 - **Segmento Consumer** é o principal motor de lucro e vendas.
 - Algumas subcategorias têm alto volume mas baixo retorno.
@@ -101,19 +101,11 @@ Foram elaboradas e respondidas perguntas estratégicas como:
 
 ---
 
-## 🧭 Próximos Passos
-
-- Aplicar modelos de clusterização para segmentação avançada.
-- Criar dashboard interativo no Power BI ou Tableau.
-- Avaliar impacto de descontos no lucro por segmento.
-
----
-
-## 👨‍💼 Sobre o Autor
+## Sobre o Autor
 
 **Douglas Soares**  
 Analista de Dados em formação | Excel • Power BI • Python • SQL  
-[LinkedIn](https://www.linkedin.com/in/douglassoares13) | [Portfólio no GitHub](https://github.com/DouglasSoares13)
+[Portfólio no GitHub](https://github.com/DouglasSoares13)
 
 ---
 
